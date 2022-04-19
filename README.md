@@ -1,1 +1,1 @@
-# fullstackopen-0
+first exercise
